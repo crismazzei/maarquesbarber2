@@ -20,5 +20,26 @@ web-build/
 assets/img/nao usados/
 assets/img/deszipados/
 
+
+        .expo-shared/
+        2035.2
+        2036.9
+        2038.0
+        App.js
+        Controller.js
+        NotificationHandler.js
+        
+        assets/
+        
+        controllers/
+        
+        maarquesbarber2/
+        metro.config.js
+        migrations/
+        models/
+        
+        views/
+        
+
 # macOS
 .DS_Store
