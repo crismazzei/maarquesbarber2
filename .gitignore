@@ -1,0 +1,33 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+.env
+.vscode/
+.npmrc
+.node_repl_history
+*.jks
+*.p8
+*.p12
+*.key
+*.log
+*.zip
+*.psd
+*.mobileprovision
+*.orig.*
+web-build/
+assets/img/nao usados/
+assets/img/deszipados/
+.expo-shared/
+App.js
+Controller.js
+NotificationHandler.js
+assets/
+controllers/
+maarquesbarber2/
+metro.config.js
+migrations/
+models/
+views/
+# macOS
+.DS_Store
